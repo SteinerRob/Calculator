@@ -1,0 +1,23 @@
+.main_inputs{
+    margin: 10px;
+    border-color: red;
+}
+
+.input_row{
+    border-color: red;
+    margin: 20px;
+    
+}
+.input_rowlb{
+    border-color: red;
+    margin: 20px;
+    display: grid;
+    
+}
+.label {
+    font-size: 20px;
+    color: black;
+}
+.spacing{
+    min-height: 50px;
+}
